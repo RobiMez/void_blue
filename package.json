@@ -1,21 +1,27 @@
 {
-    "name": "root-bear",
-    "displayName": "Root-bear",
-    "description": "super dark theme with neonish colours ",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.50.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Root Bear",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Root Bear-color-theme.json"
-            }
-        ]
-    }
+	"name": "root-bear",
+	"displayName": "Root-bear",
+	"description": "super dark theme with neonish colours ",
+	"version": "0.0.1",
+	"publisher": "Reuben",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [ "Themes" ],
+	"repository": {
+		"url": "https://github.com/RobiMez/root-bear"
+	},
+	"devDependencies": {
+		"standard-version": "^8.0.2",
+		"vsce": "^1.75.0"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Root Bear",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Root Bear-color-theme.json"
+			}
+		]
+	}
 }
