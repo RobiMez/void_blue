@@ -3,7 +3,7 @@
 	"displayName": "Void blue",
 	"description": "Material ui-ish dark theme with blue base.",
 	"version": "0.2.0",
-	"publisher": "Reuben",
+	"publisher": "RobiMez",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
