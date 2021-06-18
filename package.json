@@ -1,13 +1,13 @@
 {
-	"name": "void_blue",
+	"name": "root-bear",
 	"displayName": "Void blue",
 	"description": "Material ui-ish dark theme with blue base.",
 	"version": "0.2.0",
-	"publisher": "RobiMez",
+	"publisher": "Reuben",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
-	"icon": "./images/themeicon.png",
+	"icon": "images/themeicon.png",
 	"keywords": [
 		"Dark theme",
 		"dark theme",
