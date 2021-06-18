@@ -1,15 +1,31 @@
 {
-	"name": "root-bear",
-	"displayName": "Root-bear",
-	"description": "super dark theme with neonish colours ",
-	"version": "0.0.1",
+	"name": "void_blue",
+	"displayName": "Void blue",
+	"description": "Material ui-ish dark theme with blue base.",
+	"version": "0.2.0",
 	"publisher": "Reuben",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
+	"icon": "./images/themeicon.png",
+	"keywords": [
+		"Dark theme",
+		"dark theme",
+		"void blue",
+		"karma ",
+		"dark material ui ",
+		"material dark ",
+		"neon dark ",
+		"dark blue material ",
+		"material ui blue "
+	],
+	"galleryBanner": {
+		"color": "#0a0e14",
+		"theme": "dark"
+	},
 	"categories": [ "Themes" ],
 	"repository": {
-		"url": "https://github.com/RobiMez/root-bear"
+		"url": "https://github.com/RobiMez/void_blue"
 	},
 	"devDependencies": {
 		"standard-version": "^8.0.2",
@@ -18,9 +34,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Root Bear",
+				"label": "Void blue",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Root Bear-color-theme.json"
+				"path": "./themes/void_blue-color-theme.json"
 			}
 		]
 	}
